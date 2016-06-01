@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="libusb-win32">
+</Property><Property Name="Solution File" Value="D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\libusb-win32.sln">
+</Property><Property Name="Date" Value="2016年6月1日">
+</Property><Property Name="Time" Value="13:46">
+</Property></Properties><Event ErrorLevel="0" Project="install-filter" Source="install-filter.vcproj" Description="Converting project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\install-filter.vcproj'.">
+</Event><Event ErrorLevel="1" Project="install-filter" Source="install-filter.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="install-filter" Source="install-filter.vcproj" Description="Done converting to new project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\install-filter.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="install-filter" Source="install-filter.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="libusb-dll" Source="libusb-dll.vcproj" Description="Converting project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\libusb-dll.vcproj'.">
+</Event><Event ErrorLevel="1" Project="libusb-dll" Source="libusb-dll.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="libusb-dll" Source="libusb-dll.vcproj" Description="Done converting to new project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\libusb-dll.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="libusb-dll" Source="libusb-dll.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="inf-wizard" Source="inf-wizard.vcproj" Description="Converting project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\inf-wizard.vcproj'.">
+</Event><Event ErrorLevel="1" Project="inf-wizard" Source="inf-wizard.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="inf-wizard" Source="inf-wizard.vcproj" Description="Done converting to new project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\inf-wizard.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="inf-wizard" Source="inf-wizard.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testlibusb-win" Source="testlibusb-win.vcproj" Description="Converting project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\testlibusb-win.vcproj'.">
+</Event><Event ErrorLevel="1" Project="testlibusb-win" Source="testlibusb-win.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="testlibusb-win" Source="testlibusb-win.vcproj" Description="Done converting to new project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\testlibusb-win.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testlibusb-win" Source="testlibusb-win.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testlibusb" Source="testlibusb.vcproj" Description="Converting project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\testlibusb.vcproj'.">
+</Event><Event ErrorLevel="1" Project="testlibusb" Source="testlibusb.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="testlibusb" Source="testlibusb.vcproj" Description="Done converting to new project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\testlibusb.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testlibusb" Source="testlibusb.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="libusb-sys" Source="libusb-sys.vcproj" Description="Converting project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\libusb-sys.vcproj'.">
+</Event><Event ErrorLevel="1" Project="libusb-sys" Source="libusb-sys.vcproj" Description="VCConvertEngine could not convert attribute CompileAsManaged =  under Tool VCNMakeTool.">
+</Event><Event ErrorLevel="1" Project="libusb-sys" Source="libusb-sys.vcproj" Description="VCConvertEngine could not convert attribute CompileAsManaged =  under Tool VCNMakeTool.">
+</Event><Event ErrorLevel="1" Project="libusb-sys" Source="libusb-sys.vcproj" Description="VCConvertEngine could not convert attribute CompileAsManaged =  under Tool VCNMakeTool.">
+</Event><Event ErrorLevel="1" Project="libusb-sys" Source="libusb-sys.vcproj" Description="VCConvertEngine could not convert attribute CompileAsManaged =  under Tool VCNMakeTool.">
+</Event><Event ErrorLevel="0" Project="libusb-sys" Source="libusb-sys.vcproj" Description="Done converting to new project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\libusb-sys.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="libusb-sys" Source="libusb-sys.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testbulk" Source="testbulk.vcproj" Description="Converting project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\testbulk.vcproj'.">
+</Event><Event ErrorLevel="1" Project="testbulk" Source="testbulk.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="testbulk" Source="testbulk.vcproj" Description="Done converting to new project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\testbulk.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testbulk" Source="testbulk.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Benchmark" Source="Benchmark.vcproj" Description="Converting project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Benchmark.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Benchmark" Source="Benchmark.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Benchmark" Source="Benchmark.vcproj" Description="Done converting to new project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Benchmark.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Benchmark" Source="Benchmark.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="embedder_2008" Source="additional\libwdi\libwdi\embedder_2008.vcproj" Description="Converting project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\additional\libwdi\libwdi\embedder_2008.vcproj'.">
+</Event><Event ErrorLevel="1" Project="embedder_2008" Source="additional\libwdi\libwdi\embedder_2008.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="embedder_2008" Source="additional\libwdi\libwdi\embedder_2008.vcproj" Description="Done converting to new project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\additional\libwdi\libwdi\embedder_2008.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="embedder_2008" Source="additional\libwdi\libwdi\embedder_2008.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="installer_x64_2008" Source="additional\libwdi\libwdi\installer_x64_2008.vcproj" Description="Converting project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\additional\libwdi\libwdi\installer_x64_2008.vcproj'.">
+</Event><Event ErrorLevel="1" Project="installer_x64_2008" Source="additional\libwdi\libwdi\installer_x64_2008.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="installer_x64_2008" Source="additional\libwdi\libwdi\installer_x64_2008.vcproj" Description="Done converting to new project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\additional\libwdi\libwdi\installer_x64_2008.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="installer_x64_2008" Source="additional\libwdi\libwdi\installer_x64_2008.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="installer_x86_2008" Source="additional\libwdi\libwdi\installer_x86_2008.vcproj" Description="Converting project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\additional\libwdi\libwdi\installer_x86_2008.vcproj'.">
+</Event><Event ErrorLevel="1" Project="installer_x86_2008" Source="additional\libwdi\libwdi\installer_x86_2008.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="installer_x86_2008" Source="additional\libwdi\libwdi\installer_x86_2008.vcproj" Description="Done converting to new project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\additional\libwdi\libwdi\installer_x86_2008.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="installer_x86_2008" Source="additional\libwdi\libwdi\installer_x86_2008.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="libwdi_static_2008" Source="additional\libwdi\libwdi\libwdi_static_2008.vcproj" Description="Converting project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\additional\libwdi\libwdi\libwdi_static_2008.vcproj'.">
+</Event><Event ErrorLevel="1" Project="libwdi_static_2008" Source="additional\libwdi\libwdi\libwdi_static_2008.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="libwdi_static_2008" Source="additional\libwdi\libwdi\libwdi_static_2008.vcproj" Description="Done converting to new project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\additional\libwdi\libwdi\libwdi_static_2008.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="libwdi_static_2008" Source="additional\libwdi\libwdi\libwdi_static_2008.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="install-filter-win" Source="install-filter-win.vcproj" Description="Converting project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\install-filter-win.vcproj'.">
+</Event><Event ErrorLevel="1" Project="install-filter-win" Source="install-filter-win.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="install-filter-win" Source="install-filter-win.vcproj" Description="Done converting to new project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\install-filter-win.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="install-filter-win" Source="install-filter-win.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="libusb-win32.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="libusb-win32.sln" Description="Converted">
+</Event></UpgradeLog>

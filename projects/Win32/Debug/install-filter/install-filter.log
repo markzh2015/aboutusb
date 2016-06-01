@@ -1,0 +1,28 @@
+﻿Build started 2016/6/1 13:48:23.
+     1>Project "D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\install-filter.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Win32\Debug\install-filter\install-filter.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\src /I..\src\driver /ZI /nologo /W3 /WX- /Od /Oy- /D _WIN32_WINNT=0x0500 /D TARGETTYPE=PROGRAMconsole /D "LOG_APPNAME=\"install-filter\"" /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Win32\Debug\install-filter\\" /Fd"D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Win32\Debug\install-filter\vc100.pdb" /Gd /TC /wd4996 /analyze- /errorReport:prompt ..\src\error.c ..\src\install.c ..\src\install_filter.c ..\src\registry.c
+         registry.c
+         install_filter.c
+         install.c
+         error.c
+         Generating Code...
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D "LOG_APPNAME=\"install-filter\"" /l"0x0409" /I..\src /nologo /fo"D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Win32\Debug\install-filter\install_filter_rc.res" ..\src\install_filter_rc.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Win32\Debug\install-filter\install-filter.exe" /NOLOGO setupapi.lib kernel32.lib user32.lib gdi32.lib advapi32.lib /MANIFEST:NO /DEBUG /PDB:"D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Win32\Debug\install-filter\install-filter.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Win32\Debug\install-filter\install-filter.lib" /MACHINE:X86 "D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Win32\Debug\install-filter\install_filter_rc.res"
+         "D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Win32\Debug\install-filter\error.obj"
+         "D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Win32\Debug\install-filter\install.obj"
+         "D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Win32\Debug\install-filter\install_filter.obj"
+         "D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Win32\Debug\install-filter\registry.obj"
+         install-filter.vcxproj -> D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Win32\Debug\install-filter\install-filter.exe
+       FinalizeBuildStatus:
+         Deleting file "D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Win32\Debug\install-filter\install-filter.unsuccessfulbuild".
+         Touching "D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\Win32\Debug\install-filter\install-filter.lastbuildstate".
+     1>Done Building Project "D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\install-filter.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.98
