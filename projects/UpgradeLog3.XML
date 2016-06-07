@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="libusb-sys">
+</Property><Property Name="Solution File" Value="D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\libusb-sys.sln">
+</Property><Property Name="Date" Value="2016年6月6日">
+</Property><Property Name="Time" Value="15:35:21">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="libusb-sys" Source="libusb-sys.vcproj" Description="Converting project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\libusb-sys.vcproj'.">
+</Event><Event ErrorLevel="1" Project="libusb-sys" Source="libusb-sys.vcproj" Description="VCConvertEngine could not convert attribute CompileAsManaged =  under Tool VCNMakeTool.">
+</Event><Event ErrorLevel="1" Project="libusb-sys" Source="libusb-sys.vcproj" Description="VCConvertEngine could not convert attribute CompileAsManaged =  under Tool VCNMakeTool.">
+</Event><Event ErrorLevel="1" Project="libusb-sys" Source="libusb-sys.vcproj" Description="VCConvertEngine could not convert attribute CompileAsManaged =  under Tool VCNMakeTool.">
+</Event><Event ErrorLevel="1" Project="libusb-sys" Source="libusb-sys.vcproj" Description="VCConvertEngine could not convert attribute CompileAsManaged =  under Tool VCNMakeTool.">
+</Event><Event ErrorLevel="0" Project="libusb-sys" Source="libusb-sys.vcproj" Description="Done converting to new project file 'D:\work\TOF USB\usb_upper\libusb-win32-src-1.2.6.0\projects\libusb-sys.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="libusb-sys" Source="libusb-sys.vcproj" Description="Converted">
+</Event></UpgradeLog>

@@ -14,7 +14,7 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
     </Filter>
     <Filter Include="ddk_make Files">
-      <UniqueIdentifier>{74b6022a-308a-4f25-8867-096acc641976}</UniqueIdentifier>
+      <UniqueIdentifier>{968cd5b3-d757-4398-8eb1-0b72ba594836}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

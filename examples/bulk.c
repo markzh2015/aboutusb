@@ -3,7 +3,7 @@
 
 // Enables this example to work with a device running the
 // libusb-win32 PIC Benchmark Firmware.
-#define BENCHMARK_DEVICE
+//#define BENCHMARK_DEVICE
 
 //////////////////////////////////////////////////////////////////////////////
 // TEST SETUP (User configurable)
